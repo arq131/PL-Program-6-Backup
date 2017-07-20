@@ -1,0 +1,43 @@
+@. VAR @first=Mae
+@. VAR @last=Nard
+@. VAR @petName=Pearl
+@. VAR @street="123 COLORADO" 
+@. VAR @city="SAN ANTONIO" 
+@. VAR @state=TX
+@. VAR @zip=78255
+@. VAR @title=Dr.
+@. VAR @reason="was shot by an arrow"
+@. VAR @mortName="Paul Bearer" 
+@. VAR @mortPhone="210-555-1234"
+@. FORMAT LM=5 RM=70 JUST=LEFT FLOW=NO
+@first @last
+@street
+@city, @state @zip
+
+Dear @title @last,
+@. FORMAT FLOW=YES 
+We are sorry to hear about the loss of your beloved pet @petName.  Our understanding is that @petName @reason. Although this is a sad time, it is best to celebrate the life of @petName with a fitting memory.  Wagging Tail Family Mortuary provides several caring options:
+
+@. FORMAT LM=10 RM=65 JUST=BULLET BULLET=o
+Cremation and a rich mahogany box for warmly storing @petName.  ($299.99)
+
+Cremation and a keep-sake memory box which will continuously stream pictures or a video of @petName.  This
+option can provide you with some of the best memories of the good times with the confidence that @petName is
+never far away.  ($799.99)
+
+Burial plot at our Deservingly Ultimate Manicured Pet Cemetery where @petName can be swathed in the
+serenity of our well manicured grounds.  Although you can't visit these grounds due to the necessity for
+keeping it serene, you are provided web access to our 24/7 display of the plot where @petName will be
+for eternity. ($1299.99)
+
+@. FORMAT LM=5 RM=70 JUST=LEFT
+At Wagging Tail Family Mortuary, we know it's impossible to put a 
+price tag on the memories you have of @petName.  We take either Master Card or Visa to 
+better serve you.
+
+Our caring staff at Wagging Tail Family Mortuary are here for you any time day or night.   
+
+With my sincere sympathy,
+@. FORMAT FLOW=NO
+@mortName
+@mortPhone

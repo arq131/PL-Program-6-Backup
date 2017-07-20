@@ -1,0 +1,38 @@
+1         2         3         4         5         6         7         8
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+         Happy Days
+         Rob Ben Sun
+1         2         3         4         5         6         7         8
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+                                   Happy Days
+                                   Rob Ben Sun
+1         2         3         4         5         6         7         8
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+                               The dead batteries
+                               were given out free
+                                   of charge.
+ 
+                              The student got angry
+                               when her cell phone
+                               battery died.  Her
+                               counselor suggested
+                               she find an outlet.
+ 
+1         2         3         4         5         6         7         8
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+                                  I got a good
+                                     deal on
+                                 a new computer
+                                 and they threw
+                                     in the
+                                operating system
+                                    to boot.
+ 
+                                        A VAR is a
+                                        command to
+                                 define variables.
+                                       A FORMAT is
+                                    used to define
+                                          formats.
+ 
+ 

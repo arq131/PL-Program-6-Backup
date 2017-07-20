@@ -1,0 +1,36 @@
+@. FORMAT JUST=LEFT LM=5 RM=70 FLOW=NO
+A queen, her son, and daughter are being held in
+the top room of a high tower. Outside their 
+window is a pulley with a rope over it, and a 
+basket at each end of the rope. The 
+baskets are of equal weight. The one outside the 
+window is empty, and the other on the ground contains 
+a rock with a mass of 30 kilograms. The rock serves 
+as a counterweight.
+
+@. FORMAT JUST=LEFT LM=5 RM=70 FLOW=YES
+A queen, her son, and daughter are being held in
+the top room of a high tower. Outside their window is a pulley with a rope over it, and a 
+basket at each end of the rope. The 
+baskets are of equal weight. The one outside the window is empty, and the other 
+on the ground contains a rock with a mass of 30 kilograms. The rock serves as a counterweight.
+
+@. FORMAT JUST=RIGHT LM=5 RM=70 FLOW=YES
+A queen, her son, and daughter are being held in
+the top room of a high tower. Outside their window is a pulley with a rope over it, and a 
+basket at each end of the rope. The 
+baskets are of equal weight. The one outside the window is empty, and the other 
+on the ground contains a rock with a mass of 30 kilograms. The rock serves as a counterweight.
+
+@. FORMAT JUST=BULLET LM=5 RM=45 BULLET=o FLOW=YES
+Five Golden Rings
+
+Four Colly Birds 
+although sometimes known as calling birds
+
+Three French Hens
+
+Two Turtle Doves
+
+A Partridge in a Pear Tree (why would you want a partridge in a pear tree)
+

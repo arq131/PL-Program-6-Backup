@@ -1,0 +1,47 @@
+@. VAR @first=Rob
+@. VAR @middle=Ben
+@. VAR @last=Sun
+@. FORMAT LM=1 RM=80 JUST=LEFT FLOW=NO
+         1         2         3         4         5         6         7         8
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+@. FORMAT LM=10 RM=70
+Happy Days
+@first @middle @last
+@. FORMAT LM=1 RM=80 JUST=LEFT FLOW=NO
+         1         2         3         4         5         6         7         8
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+@. FORMAT LM=10 RM=70
+@. FORMAT JUST=CENTER
+Happy Days
+@first @middle @last
+@. FORMAT LM=1 RM=80 JUST=LEFT FLOW=NO
+         1         2         3         4         5         6         7         8
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+@. FORMAT LM=30 RM=50 JUST=CENTER FLOW=YES
+The dead batteries were given out free of charge.
+
+The student 
+got angry when her cell phone battery died.  Her counselor suggested
+she find an outlet.
+
+@. FORMAT LM=1 RM=80 JUST=LEFT FLOW=NO
+         1         2         3         4         5         6         7         8
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+@. FORMAT LM=30 RM=50 JUST=CENTER FLOW=NO
+I got a good 
+deal on
+a new computer
+and they threw
+in the 
+operating system
+to boot.
+
+@. FORMAT JUST=RIGHT
+A VAR is a 
+command to
+define variables.
+A FORMAT is 
+used to define 
+formats.
+
+
